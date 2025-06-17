@@ -1,0 +1,33 @@
+{
+    "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PTERODACTYL PANEL - PTERODACTYL.IO",
+    "meta": {
+        "version": "PTDL_v2",
+        "update_url": null
+    },
+    "exported_at": "2023-03-08T08:36:48+07:00",
+    "name": "NODEJS PREMIUM - ARTHURXYZ STUDIOS",
+    "author": "arthurxyzstudios@gmail.com",
+    "description": "egg nodejs pterodactyl nodejs v18 vip",
+    "features": null,
+    "docker_images": {
+        "VIP": "ghcr.io\/arthurxyzstudios\/vip-pm2:beta-1"
+        "VIP": "ghcr.io\/arthurxyzstudios\/vip-pm2:beta-2"
+        "VIP": "ghcr.io\/arthurxyzstudios\/vip-pm2:beta-4"
+    },
+    "file_denylist": [],
+    "startup": "SILAHKAN START SERVER, JALANKAN SEMUA PERINTAH DI COMMAND !!",
+    "config": {
+        "files": "{}",
+        "startup": "{\r\n    \"done\": \"running\"\r\n}",
+        "logs": "{}",
+        "stop": "^^c"
+    },
+    "scripts": {
+        "installation": {
+            "script": "# YNTKTS WKWK\r\n# IDUP JANGAN KEBANYAKAN RECODE :)\r\n# FOLLOW IG @arthurxyzsudios",
+            "container": "node:20",
+            "entrypoint": "bash"
+        }
+    },
+    "variables": []
+}
